@@ -23,7 +23,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: c10f808ee01b4a89d78a4d368c7a2b76acc610fe
+  github_token: d4d8af7b4a2a5fa44966901ab8f5ffeb3d0892cc
   local_dir: dist/bitcoin
   edge: true
   on:
